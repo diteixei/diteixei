@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @diteixei
-- 👀 I’m interested in lerning Python, improve myself in SQL 
+- 👀 I’m interested in lerning Python and improve my SQL skills 
 - 🌱 I’m currently learning Data Architecture
 - 💞️ I’m looking to collaborate on Data Analysis and Automation Projects
 - 📫 How to reach me @diteixei
